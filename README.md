@@ -28,7 +28,7 @@ I build agents that do real work, and the systems that keep them honest.
 - [**bloombet**](https://github.com/SatyamDave/bloombet): a Bloomberg-style terminal for sports-market inefficiencies
 
 #### Products I've shipped and explored
-[Pluto](https://github.com/SatyamDave/Pluto) (an AI assistant you reach by SMS and voice) · [Vera](https://github.com/SatyamDave/Vera) (prompt to a full-stack app) · [pigeon-ai](https://github.com/SatyamDave/pigeon-ai) · [pom-pilot](https://github.com/SatyamDave/pom-pilot) · [FinalRoundAI](https://github.com/SatyamDave/FinalRoundAI) · [DreamSense](https://github.com/SatyamDave/dreamsenseproject) (vision for blind users) · [feedback-analyzer](https://github.com/SatyamDave/feedback-analyzer) (Cloudflare Workers + D1)
+[Pluto](https://github.com/SatyamDave/Pluto) (an AI assistant you reach by SMS and voice) · [Vera](https://github.com/SatyamDave/Vera) (prompt to a full-stack app) · [pigeon-ai](https://github.com/SatyamDave/pigeon-ai) · [pom-pilot](https://github.com/SatyamDave/pom-pilot) · [FinalRoundAI](https://github.com/SatyamDave/FinalRoundAI) · [feedback-analyzer](https://github.com/SatyamDave/feedback-analyzer) (Cloudflare Workers + D1)
 
 ---
 
